@@ -68,7 +68,7 @@
 		"sat": "^0.8.0",
 		"seedrandom": "^3.0.5",
 		"shortid": "^2.2.15",
-		"three": "^0.125.2",
+		"three": "^0.125.0",
 		"three-bmfont-text": "^3.0.1",
 		"tick-knock": "https://github.com/Milkshake-Inc/tick-knock.git",
 		"tweakpane": "^1.5.5",
